@@ -1,0 +1,15 @@
+{
+  "name": "tello-node",
+  "version": "1.0.0",
+  "description": "Hacking a drone tello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@abelhOrihuela",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "waait": "^1.0.4"
+  }
+}
