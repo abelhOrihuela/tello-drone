@@ -4,7 +4,7 @@
   "description": "Hacking a drone tello",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node fly.js"
   },
   "author": "@abelhOrihuela",
   "license": "ISC",
